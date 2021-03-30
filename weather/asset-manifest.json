@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/learning-React/weather/static/css/main.851c319c.chunk.css",
+    "main.js": "/learning-React/weather/static/js/main.2746f6b9.chunk.js",
+    "main.js.map": "/learning-React/weather/static/js/main.2746f6b9.chunk.js.map",
+    "runtime-main.js": "/learning-React/weather/static/js/runtime-main.c57bc6e3.js",
+    "runtime-main.js.map": "/learning-React/weather/static/js/runtime-main.c57bc6e3.js.map",
+    "static/css/2.679831fc.chunk.css": "/learning-React/weather/static/css/2.679831fc.chunk.css",
+    "static/js/2.37bc911c.chunk.js": "/learning-React/weather/static/js/2.37bc911c.chunk.js",
+    "static/js/2.37bc911c.chunk.js.map": "/learning-React/weather/static/js/2.37bc911c.chunk.js.map",
+    "index.html": "/learning-React/weather/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/learning-React/weather/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.851c319c.chunk.css.map": "/learning-React/weather/static/css/main.851c319c.chunk.css.map",
+    "static/js/2.37bc911c.chunk.js.LICENSE.txt": "/learning-React/weather/static/js/2.37bc911c.chunk.js.LICENSE.txt",
+    "static/media/arrow.0342a3b8.svg": "/learning-React/weather/static/media/arrow.0342a3b8.svg",
+    "static/media/clear_d.29cdc5ba.jpeg": "/learning-React/weather/static/media/clear_d.29cdc5ba.jpeg",
+    "static/media/clear_n.65a47972.jpeg": "/learning-React/weather/static/media/clear_n.65a47972.jpeg",
+    "static/media/clouds_d.e38f2a03.jpeg": "/learning-React/weather/static/media/clouds_d.e38f2a03.jpeg",
+    "static/media/clouds_n.c0c9f27a.jpeg": "/learning-React/weather/static/media/clouds_n.c0c9f27a.jpeg",
+    "static/media/mist_d.c16b997c.jpeg": "/learning-React/weather/static/media/mist_d.c16b997c.jpeg",
+    "static/media/mist_n.4f62823a.jpeg": "/learning-React/weather/static/media/mist_n.4f62823a.jpeg",
+    "static/media/rain_d.7c487f74.jpeg": "/learning-React/weather/static/media/rain_d.7c487f74.jpeg",
+    "static/media/rain_n.6db66877.jpeg": "/learning-React/weather/static/media/rain_n.6db66877.jpeg",
+    "static/media/remove.8b670d78.svg": "/learning-React/weather/static/media/remove.8b670d78.svg",
+    "static/media/snow_d.fde299b1.jpeg": "/learning-React/weather/static/media/snow_d.fde299b1.jpeg",
+    "static/media/snow_n.a28c7533.jpeg": "/learning-React/weather/static/media/snow_n.a28c7533.jpeg",
+    "static/media/thunder_d.d9eb4d90.jpeg": "/learning-React/weather/static/media/thunder_d.d9eb4d90.jpeg",
+    "static/media/thunder_n.f475965a.jpeg": "/learning-React/weather/static/media/thunder_n.f475965a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c57bc6e3.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.37bc911c.chunk.js",
+    "static/css/main.851c319c.chunk.css",
+    "static/js/main.2746f6b9.chunk.js"
+  ]
+}
